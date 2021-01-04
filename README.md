@@ -27,8 +27,10 @@
 ---
 
 <p id="footer" style="font-size: smaller;">
-  &copy; 2021 NRootDev.
-  •
+	&copy; 2021 NRootDev.
+	•
+	<a href="https://stats.uptimerobot.com/o8K3gIXQ3k">Status</a>
+	•
 	<a href="https://raw.githubusercontent.com/nrootdev/nrootdev/master/assets/LICENSE">License</a>
 	•
 	<a href="https://smdl.io/b1">Disclaimer</a>
